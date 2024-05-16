@@ -1,0 +1,1 @@
+What is software testing? Software testing is the process of evaluating and verifying that a software product or application does what it's supposed to do. The benefits of good testing include preventing bugs and improving performance. Verify and validate application quality to ensure it meets user requirements.
